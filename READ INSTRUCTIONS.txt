@@ -1,0 +1,68 @@
+Nico Knows Tech's Windows Automatic Fix Tool v1.1
+Written by Nico and Ventispurr
+https://youtube.com/NicoKnowsTech
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&,        (&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&&&&&&&& **,,,. (((((((((((* ,,,,,. &&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&&&.**, (/#@@@@@@@@@@@@@@@@@@@@@@#((,**, &&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&& ,,,(,@@@@@@@@&&&&&&&&&&&&&&&&&&&@@@@@@@(***.(&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&& ,, *@@@@@&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&@@@@(,,.%&&&&&&&&&&&&&
+&&&&&&&&&&&&@ ,,/@@@&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&@@@@(,, &&&&&&&&&&&
+&&&&&&&&&&@@@@@@@@@&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&@@@@@@@@@@(,, &&&&&&&&&
+&&&&&&&&@,*************************&&&&&&&&&&&****************@@@&@@@(,,&&&&&&&&
+&&&&&&@@**(@@@@@@@@@  (@@@@@@@@@@@/**%&&&&&&@@***@@@@@@@@@@***@@@&&&@@@,, &&&&&&
+&&&&&@@**/@@@@@@@@#,##,.@@@@@@@@@@@@/**#@@@@@@***@@@@@@@@@@***@&&&&&&@@@., &&&&&
+&&&@@@**/@@&&&&@@@@#,,(&@&&&&&&@@@@@@@(**#@@@@***@&&&&&&@@@***@&&&&&&&@@@., &&&&
+&&@@@**/@@&&&&&@@@@@,,&@&&&&&&&&&@@@@@@@(**/@@***@&&&&&&@@@**/&&&&&&&&&@@@,,.&&&
+&@@@&**@@&&&&&&@@@@@,,&@&&&&&&&&&&&@@@@@@@#**(***@&&&&&&@@@**/&&&&&&&&&@@@@,.&&&
+@@@@**/@@&&&&&&@@@@@,,&@&&&&&&&&&&&&&@@@@@@@#****@&&&&&&@@@**/&&&&,&&&&@&@@,,(&&
+@@@@**@@&&&&&&&@@@@@,,&@&&&&&&&&&&&&&&@@@@@@@@#**&&&&&&@@@@**/@&&&&&&&&@@@@ , &&
+@@@@**@@&&&&&&&@@@@@,,&@&&&&&&&&&..@@@&@@@@@@@@@&&&&&&&@@@@**/@&&&&&&&&&@@@ , &&
+@@@@**#@&&&&&&&@@@@@,,&@&&&&&&&&@,,,.@@@&@&&&&&&&&&&&&&@@@@**/@&&&&&&&&&@@@,,*&&
+@@@@/*,@@&&&&&&@@@@@,,&@&&&&&&@@@,,@ ,.&@&&&&&&&&&&&&&&@@@@**/@&&&&&&&&@@@@,,@&&
+@@@@@**@@&&&&&&@@@@@,,&@&&&&&@@@@,,@@@.,.@@&&&&&&&&&&&&@@@@*//@&&&&&&&&@@@ , @&&
+@@@@@%**@@&&&&&@@@@@,,&@&&&&@@@@@,,@@@@@.,.&@&&&&&&&&&&@@@@*//@&&&&&&&&@@&,.@&&&
+@@@@@@#**@@&&&@@@@@@,,&@&&&@@@@@@,,@@@@@@@,,.&@&&&&&&&&@@@**%/*@&&&&&&@@&,,#@&&&
+@@@@@@@#/*@@@@@@@@@@,,&@@@@@@@@@@,,@@@@@@@@@*,.%@&&&&&@@@@*////@&&&&&@@.,.#@&&&&
+&@@@@@@@%//*@@@@@@@@,,           ,,@@@@@@@@@@@*,.                     ,, @&&&&&&
+&@@@@@@@@@%/*(@@@@@@#############(.@&&&&@@@@@@@@#####################(/.@&&&&&&&
+&&&@@@@@@@@@(/**@@@@@@@@@@@@@@@@@@&&&&&&&&@@@@@@@@@@@@@@@@@@@@@@@@*@@@@&&&&&&&&&
+&&&&@@@@@@@@@@%//*@@@@@@@@@@@@&&&&&&&&&&&&&&&@@@@@@@@@@@@@@@@@@///*/@&&&&&&&&&&&
+&&&&&&@@@@@@@@@@%#***#@@@@@@&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&@@*///#@@&&&&&&&&&&&&&
+&&&&&&&&@@@@@@@@@@@&%**/**@@@@&&&&&&&&&&&&&&&&&&&&&&&&@@,////(@@@&&&&&&&&&&&&&&&
+&&&&&&&&&&&@@@@@@@@@@@@@%%////***@@@@@@@@@@@@@@@&**////*%(@@@@&&&&&&&&&&&&&&&&&&
+&&&&&&&@&&&&&&@@@@@@@@@@@@@@@@%%%(*//(((((((((/*%%#(@@@@@@@&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+NOTICE: THIS OPEN SOURCE TOOL IS A SCRIPT DESIGNED TO AUTOMATE COMMON TASKS USED BY IT PROFESSIONALS
+AND PC REPAIR SERVICES. THIS SCRIPT ONLY RUNS COMMANDS BUILT INTO WINDOWS. NO THIRD PARTY APPLICATIONS
+OR TOOLS ARE USED BY THIS SCRIPT. THIS SCRIPT WAS DESIGNED TO SIMPLIFY THESE TASKS FOR THE EVERY DAY
+USER. BY USING THIS TOOL YOU AGREE THAT NICO KNOWS TECH CANNOT BE HELD LIABLE FOR ANY DAMAGE CAUSED BY
+USING THIS TOOL. IF YOU DO NOT AGREE, CLOSE THIS WINDOW NOW. USE AT YOUR OWN RISK.
+
+*****INSTRUCTIONS *****
+1.) RUN NKT_TOOL.bat
+2.) READ THE NOTICE
+3.) IF YOU DISAGREE WITH THE NOTICE, CLOSE THE WINDOW, OTHERWISE PRESS ANY KEY TO CONTINUE.
+4.) THE TOOL WILL BEGIN RUNNING THE TASKS LISTED AND EXPLAINED BELOW. WINDOW WILL TURN YELLOW.
+5.) WINDOW COLOR CHANGES TO GREEN MEANS THAT ALL OF THE TASKS COMPLETED SUCCESSFULLY.
+6.) REBOOT YOUR PC
+
+*** This tool will attempt to fix common Windows issues by running these Windows tasks:
+
+1.) SYSTEM FILE CHECKER
+2.) DEPLOYMENT IMAGE SERVICING AND MANAGEMENT TOOL
+3.) TEMP FILE REMOVAL
+4.) WINDOWS UPDATE RESET
+
+*SFC will scan your system files for corruption and try to automatically repair them.
+*DISM will check your Windows installation image for problems and try to automatically repair it.
+*After these two tasks, the script will try to delete all temporary files to speed up your pc.
+*After Temp Removal, Windows Update will reset to resolve most Windows Update issues.
+*After all task have completed, Your screen will turn green and you can reboot your PC.
+Note: For full details on these tasks, consult Microsoft's Support Forums.
+
+
+
+
